@@ -34,15 +34,15 @@ The PCB design also features an 8 pin header designed for hardware expansions an
 * **Power Rails:** Exposes internal power rails (9V, 4.5V and GND) to power expansion boards, active filters, or external mod circuits.
 * **Master Out & To Jack Input:** Access to master out and jack input. These two pins are connected by default.
 
-## 📖 Manual & Documentation
+## Manual & Documentation
 
 For detailed information on operating instructions, control layouts, feature guides, and hardware setup, please refer to the temporary user manual included in the repository. For now there only is a version Dutch, but the English version is coming soon.
 
-* 📄 **[Handleiding-ned.pdf]** 
+* **[Handleiding-ned.pdf]** 
 
 ---
 
-## 📜 Terms of Use & Licensing
+## Terms of Use & Licensing
 
 Thank you for your interest in the Deimos-4 project! Please take a moment to review the guidelines regarding the hardware, software, and documentation shared in this repository:
 
