@@ -27,7 +27,7 @@ For DIY builders, modders, and audio hackers, the Deimos-4 PCB includes dedicate
 * **Hidden tom circuit:** Test/tap point for the snare without snappy
 * **Voltage rails:** Testpoints for 9V, digital 5V, 4.5V and GND rails
 * **Individual voice tap points:** Test/tap points for the raw audio signal of each drum voice (Kick, Snare, CHH, OHH) before it reaches the master summing stage.
-* **Triggers** 4 testpoints for triggering drum voices: Kick trigger (BD_TR), Snare trigger (SN_TR), Hihat trigger (to trigger open hihat; HH_TR) and a gate testpoint (HH_GT) that together with the Hihat trigger, triggers the closed hihat.
+* **Triggers:** 4 testpoints for triggering drum voices: Kick trigger (BD_TR), Snare trigger (SN_TR), Hihat trigger (to trigger open hihat; HH_TR) and a gate testpoint (HH_GT) that together with the Hihat trigger, triggers the closed hihat.
 
 ### Hardware expansion header
 The PCB design also features an 8 pin header designed for hardware expansions and modifications. This connector includes:
