@@ -4,6 +4,9 @@ Welcome to the official repository for the **Deimos-4**, a DIY, analog 4-voice d
 
 Designed for both live jamming and having lots of fun, the Deimos-4 combines classic analog circuitry based on the original 606 and 808 circuits, a 16-step sequencer, an intuitive interface, basic sync out connectivity, and an expansion header for future expansions.
 
+<img width="886" height="886" alt="A7C14604-E1E4-4C48-A52F-A848609FFAB7_1_105_c" src="https://github.com/user-attachments/assets/ac1a1506-ed32-4f37-8c58-409bbf391630" />
+
+
 ---
 
 ## Overview & Features
