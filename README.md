@@ -11,7 +11,7 @@ Designed for both live jamming and having lots of fun, the Deimos-4 combines cla
 
 ## Overview & Features
 
-* **4 analog drum voices:** Dedicated circuits for Kick, Snare, Closed Hi-Hat (CHH), and Open Hi-Hat (OHH) with choke logic for the hihats. The decay and pitch for kick and snappy and pitch for snare are changeable. The levels of each individual drum voice can also be changed with trimpots.
+* **4 analog drum voices:** Dedicated circuits for Kick, Snare, Closed Hi-Hat (CHH), and Open Hi-Hat (OHH) with choke logic for the hihats. The decay and pitch for kick and snappy and pitch for snare are changeable. The levels of each individual drum voice can also be adjusted with trimpots.
 * **16-step sequencer:** Divided across 4 pages (4 steps per page) with per-step pattern memory. There are controls for tempo, swing and sequencer length. Individual drum voices are mutable while the sequence is running.
 * **Dual operating modes:**
   * **Live mode:** Finger-drum live or over a running background sequence.
